@@ -1,0 +1,145 @@
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.frmListHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormListPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormListPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.frmList.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormListPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.frmList.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormListPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.frmList.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormListPhieu.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.frmList.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmSearchPhieu.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Lib\obj\Debug\ManWo_Lib.pdb

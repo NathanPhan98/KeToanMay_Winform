@@ -1,0 +1,1313 @@
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormThemKhachHang.resources
+E:\HKI(year3)\KeToanMay\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormSuaKhachHang.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormSuaKhachHang.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormThemKhachHang.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+E:\N3HK1 KE TOAN MAY\ManWo_Accounting_V2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\ManWo_Accounting_V3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormLogin.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormLogin.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmTuNgayDenNgay.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhanVien.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.4\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmDanhSachKhachHang_Search.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.6\ManWo_Accounting_V5.5\ManWo_Accounting_V5.4\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmSearchKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V5.7\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormListPhieu.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V5.8\ManWo_Accounting_V5.8\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.frmReportKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.1\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportKH.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportHH.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.2\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportTK.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportHH.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportKH.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportTK.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportHH.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportKH.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportTK.resources
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+E:\HKI(year3)\KeToanMay\Version\Install\ManWo_Accounting_V6.3\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe.config
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Accounting.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\EnvDTE.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\stdole.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\Microsoft.MSXML.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ManWo_Lib.pdb
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.AssemblyReference.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Form1.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormHangHoa.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormKhachHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormNhapHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormTaiKhoan.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.FormXuatHang.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.Properties.Resources.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmPeportPhieuNhap.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportHH.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportKH.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.report.frmReportTK.resources
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.GenerateResource.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\RdlCompile.compiled
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CoreCompileInputs.cache
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.csproj.CopyComplete
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.exe
+W:\1 - HK1N3 - Kế Toán Máy\ManWo_Accounting_V6.5\ManWo_Accounting\ManWo_Accounting\obj\Debug\ManWo_Accounting.pdb
